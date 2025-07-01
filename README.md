@@ -39,7 +39,7 @@ Desarrollador JavaScript especializado en backend con **NestJS**, **Node.js** y 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gus-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/gusdev86)  
-✉️ gus.dev.personal@gmail.com
+✉️ Contacto exclusivamente por MD de Linkedin
 
 ---
 
