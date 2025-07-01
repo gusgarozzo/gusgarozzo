@@ -38,7 +38,8 @@ Desarrollador JavaScript especializado en backend con **NestJS**, **Node.js** y 
 
 ## 📊 Actividad reciente
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gusgarozzo&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gusgarozzo&theme=default&locale=es&exclude_days=Sun,Sat)](https://git.io/streak-stats)
+
 
 ---
 
