@@ -24,7 +24,7 @@ Desarrollador JavaScript especializado en backend con **NestJS**, **Node.js** y 
 - **Frameworks:** NestJS, Express
 - **Bases de datos:** PostgreSQL, SQLite, MongoDB
 - **Herramientas:** Git, Docker, Postman, Insomnia
-- **Otros:** Node-RED, integraciones RESTful, extensiones de navegador
+- **Otros:** integraciones RESTful, extensiones de navegador
 
 ---
 
