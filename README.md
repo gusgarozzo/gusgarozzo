@@ -1,46 +1,52 @@
-# Hola, soy Gus 👋
+# Gustavo Garozzo | Backend Developer Ssr.
 
-Desarrollador JavaScript especializado en backend con **NestJS**, **Node.js** y tecnologías relacionadas.
-
----
-
-## 🧠 Sobre mí
-
-- 💻 Trabajo como desarrollador backend, actualmente enfocado en proyectos privados con tecnologías como:
-  - **NestJS** + **TypeORM**
-  - **OAuth 1.0a**, integración de APIs
-  - **PostgreSQL**, **SQLite**, **MongoDB**
-  - Principios **SOLID**, diseño limpio y estructurado
-
-- 🚀 Desarrollo herramientas prácticas como *OfferWatchdog* – una extensión de navegador para detectar cambios en productos online (repositorio privado por ahora).
-
-- 🧩 Aunque muchas de mis contribuciones están en repos privados o en GitLab, mantengo este perfil para compartir ideas, fragmentos útiles y proyectos personales.
+### Especializado en Node.js/NestJS, Arquitectura de Microservicios y Soluciones AWS.
 
 ---
 
-## 🛠️ Tecnologías que uso con frecuencia
+## 💻 Experiencia y Foco Profesional
 
-- **Lenguajes:** JavaScript, TypeScript, SQL
-- **Frameworks:** NestJS, Express
-- **Bases de datos:** PostgreSQL, SQLite, MongoDB
-- **Herramientas:** Git, Docker, Postman, Insomnia
-- **Otros:** integraciones RESTful, extensiones de navegador
+[cite_start]Soy Desarrollador Backend con más de 3 años de experiencia profesional [cite: 7][cite_start], enfocado en el desarrollo de APIs REST escalables, integración de sistemas externos y soluciones AWS[cite: 8].
+
+[cite_start]Mi experiencia se centra en proyectos de alto volumen de transacciones [cite: 9] [cite_start]y estoy comprometido con el código de calidad y las mejores prácticas[cite: 10].
+
+### Logros Clave (Extractos Directos del CV)
+
+* [cite_start]Desarrollo de APIs REST completas con **NestJS** para e-commerce y marketplaces, optimizando sincronización y gestión de productos/órdenes[cite: 15].
+* [cite_start]Implementación de servicios **serverless en AWS** (Lambda + API Gateway + S3) para calculadores, lo que eliminó infraestructura dedicada y redujo costos operativos.
+* [cite_start]Integración de APIs externas de marketplaces y ERPs, automatizando inventarios y pedidos[cite: 16].
+* [cite_start]Optimización de operaciones **PostgreSQL** con Sequelize y transacciones complejas, garantizando consistencia y alto rendimiento[cite: 18, 9].
 
 ---
 
-## 💡 En proceso
+## 📂 Proyectos de Demostración Técnica
 
-- 🧩 Proyecto técnico con arquitectura organizada usando NestJS, TypeORM y SQLite
-- 🧭 Extensión de navegador para monitoreo de productos online (seguimiento de stock, republicaciones y precios)
-- 🔐 Integraciones seguras con APIs externas (ej: OAuth 1.0a en plataformas como Magento)
+Estos proyectos evidencian mi *expertise* en producción y en el manejo de arquitecturas avanzadas.
+
+### 1. Producto en Producción: Monitor de Productos
+
+* **Tipo:** Extensión de Chrome.
+* **Valor:** Demuestra la capacidad de llevar un producto completo a un entorno de producción (Chrome Web Store).
+* **Ver Producto Aquí:** [**[Link a Chrome Web Store: Monitor de Productos]**](https://chromewebstore.google.com/detail/monitor-de-productos/gnloopghiogbfcnkakbbjmifhmldfjba)
+
+### 2. Caso de Estudio: Arquitectura Avanzada
+
+* **Propósito:** Demostrar rigor técnico, rendimiento y capacidad de integración de sistemas de vanguardia.
+* **Tecnologías Clave:** Implementación de **Redis** (para *caching*), integración de **LLM** (API de IA para interpretación de datos), y uso de **Husky** (para gestión de *hooks* y calidad de código).
+* **Disponibilidad:** Este repositorio es mantenido para validación técnica de código (ej. durante entrevistas).
+
+---
+
+## 🛠️ Stack y Herramientas
+
+* [cite_start]**Backend & APIs:** Node.js, **NestJS**, TypeScript, REST APIs, Microservicios, Swagger/OpenAPI[cite: 35, 36].
+* [cite_start]**Bases de Datos:** PostgreSQL, Sequelize ORM, DynamoDB, **Redis**, Query Optimization[cite: 38, 39].
+* **Cloud & Serverless:** AWS Lambda, API Gateway, S3, Docker, Serverless Architecture[cite: 42].
+* [cite_start]**Calidad y Flujo:** Git, Jest, Unit Testing, Agile/Scrum, Code Review[cite: 43, 44].
 
 ---
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gus-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/gusdev86)  
-✉️ Contacto exclusivamente por MD de Linkedin
-
----
-
-Gracias por pasar por mi perfil 👋
+* [cite_start]**Email:** gustavogarozzo@gmail.com [cite: 3]
+* [cite_start]**LinkedIn:** [linkedin.com/in/gustavogarozzo](https://www.linkedin.com/in/gustavogarozzo) [cite: 4]
