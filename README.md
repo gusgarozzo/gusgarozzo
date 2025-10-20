@@ -24,7 +24,7 @@ Estos proyectos evidencian mi *expertise* en producción y en el manejo de arqui
 
 * **Tipo:** Extensión de Chrome.
 * **Valor:** Demuestra la capacidad de llevar un producto completo a un entorno de producción (Chrome Web Store).
-* **Ver Producto Aquí:** [**[(https://chromewebstore.google.com/detail/monitor-de-productos/gnloopghiogbfcnkakbbjmifhmldfjba)]**]
+* **Ver Producto Aquí:** [https://chromewebstore.google.com/detail/monitor-de-productos/gnloopghiogbfcnkakbbjmifhmldfjba]
 
 ### 2. Caso de Estudio: Arquitectura Avanzada
 
