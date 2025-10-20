@@ -8,7 +8,7 @@
 
 Desarrollador Backend con más de 3 años de experiencia profesional, enfocado en el desarrollo de APIs REST escalables, integración de sistemas externos y soluciones AWS. Comprometido con el código de calidad, las mejores prácticas y proyectos de alto volumen de transacciones.
 
-### Logros Clave (Extractos Directos del CV)
+### Logros Clave
 
 * Desarrollo de APIs REST completas con **NestJS** para e-commerce y marketplaces, optimizando sincronización y gestión de productos/órdenes.
 * Implementación de servicios **serverless en AWS** (Lambda + API Gateway + S3) para calculadores, lo que eliminó infraestructura dedicada y redujo costos operativos.
