@@ -39,7 +39,13 @@ Estos proyectos evidencian mi *expertise* en producción y en el manejo de arqui
 * **Backend & APIs:** Node.js, **NestJS**, TypeScript, REST APIs, Microservicios, Swagger/OpenAPI.
 * **Bases de Datos:** PostgreSQL, Sequelize ORM, DynamoDB, **Redis**, Query Optimization.
 * **Cloud & Serverless:** AWS Lambda, API Gateway, S3, Docker, Serverless Architecture.
-* **Certificaciones:** Arquitectura de Software: Patrones Esenciales, Prompt Engineering: Inteligencia Artificial Generativa.
+
+### 🎓 Certificaciones Destacadas
+
+* **IA Generativa:** Introducción a la IA Generativa (*MIT Professional Education*), Prompt Engineering.
+* **Arquitectura:** Arquitectura de software: Patrones esencial (*LinkedIn*).
+* **Cloud:** Introducción a AWS: Conceptos de la nube (*LinkedIn*).
+* **Liderazgo:** Lidera a Toda Velocidad: Lecciones de la Fórmula 1 (*Santander*).
 
 ---
 
