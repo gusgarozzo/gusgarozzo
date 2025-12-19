@@ -53,3 +53,4 @@ Estos proyectos evidencian mi *expertise* en producción y en el manejo de arqui
 
 * **Email:** gustavogarozzo@gmail.com
 * **LinkedIn:** [linkedin.com/in/gustavogarozzo]
+* **Portfolio:** [https://gustavo-garozzo.vercel.app/]
