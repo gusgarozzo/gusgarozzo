@@ -1,4 +1,4 @@
-# Gustavo Garozzo | Backend Developer Ssr.
+# Gustavo Garozzo | Backend Developer Ssr. | Co-Founder at Barking Dogs
 
 ### Especializado en Node.js/NestJS, Arquitectura de Microservicios y Soluciones AWS.
 
