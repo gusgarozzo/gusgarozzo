@@ -3,7 +3,7 @@
 ## Backend / Full Stack Software Engineer
 ### Node.js • NestJS • TypeScript • React • Next.js • AI First
 
-Soy Ingeniero de Software argentino con más de **4 años de experiencia profesional** desarrollando aplicaciones backend escalables, APIs REST y soluciones cloud.
+Soy Desarrollador de Software argentino con más de **4 años de experiencia profesional** desarrollando aplicaciones backend escalables, APIs REST y soluciones cloud.
 
 Mi especialidad es el desarrollo con **Node.js**, **NestJS** y **TypeScript**, aunque durante el último año también he ampliado mi experiencia hacia el desarrollo **Full Stack** con **React** y **Next.js**, construyendo aplicaciones productivas bajo una metodología **AI First**.
 
