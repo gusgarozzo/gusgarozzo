@@ -48,7 +48,7 @@ Utilizo diariamente herramientas como:
 
 - ChatGPT
 - Claude
-- Gemini
+- OpenCode
 - GitHub Copilot
 
 Las aplico para:
