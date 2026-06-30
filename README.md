@@ -149,7 +149,7 @@ Software House cofundada con el objetivo de desarrollar productos modernos utili
 
 💼 **LinkedIn:** https://linkedin.com/in/gustavogarozzo
 
-🌐 **Portfolio:** https://gustavo-garozzo.vercel.app
+🌐 **Portfolio:** https://gustavogarozzo.vercel.app/
 
 ---
 
