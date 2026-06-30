@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Gustavo Garozzo
 
-## Backend / Full Stack Software Engineer
+## Backend / Full Stack Software Developer
 ### Node.js • NestJS • TypeScript • React • Next.js • AI First
 
 Soy Desarrollador de Software argentino con más de **4 años de experiencia profesional** desarrollando aplicaciones backend escalables, APIs REST y soluciones cloud.
