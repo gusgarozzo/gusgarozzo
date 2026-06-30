@@ -123,8 +123,8 @@ Sitio corporativo desarrollado bajo una metodología AI First con foco en rendim
 ### 🌦️ Weather API AI
 API desarrollada con NestJS que integra Gemini Flash 2.5 para interpretar información meteorológica mediante Inteligencia Artificial.
 
-### 🛒 Monitor de Productos
-Extensión publicada en Chrome Web Store para monitorear disponibilidad y cambios de precio de productos.
+### 🛒 Watchdog
+Extensión publicada en Google Play Store para monitorear disponibilidad y cambios de precio de productos.
 
 ### 🐶 Barking Dogs
 Software House cofundada con el objetivo de desarrollar productos modernos utilizando tecnologías web e Inteligencia Artificial.
