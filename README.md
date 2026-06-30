@@ -1,56 +1,156 @@
-# Gustavo Garozzo | Backend Developer Ssr. | Co-Founder at Barking Dogs
+# ¡Hola! 👋 Soy Gustavo Garozzo
 
-### Especializado en Node.js/NestJS, Arquitectura de Microservicios y Soluciones AWS.
+## Backend / Full Stack Software Engineer
+### Node.js • NestJS • TypeScript • React • Next.js • AI First
 
----
+Soy Ingeniero de Software argentino con más de **4 años de experiencia profesional** desarrollando aplicaciones backend escalables, APIs REST y soluciones cloud.
 
-## 💻 Experiencia y Foco Profesional
+Mi especialidad es el desarrollo con **Node.js**, **NestJS** y **TypeScript**, aunque durante el último año también he ampliado mi experiencia hacia el desarrollo **Full Stack** con **React** y **Next.js**, construyendo aplicaciones productivas bajo una metodología **AI First**.
 
-Desarrollador Backend con más de 3 años de experiencia profesional, enfocado en el desarrollo de APIs REST escalables, integración de sistemas externos y soluciones AWS. Comprometido con el código de calidad, las mejores prácticas y proyectos de alto volumen de transacciones.
-
-### Logros Clave
-
-* Desarrollo de APIs REST completas con **NestJS** para e-commerce y marketplaces, optimizando sincronización y gestión de productos/órdenes.
-* Implementación de servicios **serverless en AWS** (Lambda + API Gateway + S3) para calculadores, lo que eliminó infraestructura dedicada y redujo costos operativos.
-* Optimización de operaciones **PostgreSQL** con Sequelize y transacciones complejas, garantizando consistencia y alto rendimiento.
+Disfruto diseñar arquitecturas mantenibles, resolver problemas complejos y crear software que aporte valor real a las personas.
 
 ---
 
-## 📂 Proyectos de Demostración Técnica
+# 🚀 En qué me especializo
 
-Estos proyectos evidencian mi *expertise* en producción y en el manejo de arquitecturas avanzadas.
-
-### 1. Producto en Producción: Monitor de Productos
-
-* **Tipo:** Extensión de Chrome.
-* **Valor:** Demuestra la capacidad de llevar un producto completo a un entorno de producción (Chrome Web Store).
-* **Ver Producto Aquí:** [https://chromewebstore.google.com/detail/monitor-de-productos/gnloopghiogbfcnkakbbjmifhmldfjba]
-
-### 2. Caso de Estudio: Arquitectura Avanzada
-
-* **Propósito:** Demostrar rigor técnico, rendimiento y capacidad de integración de sistemas de vanguardia.
-* **Tecnologías Clave:** Implementación de **Redis** (para *caching*), integración de **LLM** (API de IA para interpretación de datos), y uso de **Husky** (para gestión de *hooks* y calidad de código).
-* **Disponibilidad:** Este repositorio es mantenido para validación técnica de código (ej. durante entrevistas).
+- Desarrollo Backend con Node.js y NestJS
+- Diseño y desarrollo de APIs REST
+- Desarrollo Full Stack con React y Next.js
+- Arquitectura de Software
+- Integración con APIs y servicios de terceros
+- Optimización de rendimiento
+- Sistemas escalables
+- Desarrollo AI First
+- Clean Code y buenas prácticas
 
 ---
 
-## 🛠️ Stack y Herramientas
+# 💼 Experiencia Profesional
 
-* **Backend & APIs:** Node.js, **NestJS**, TypeScript, REST APIs, Microservicios, Swagger/OpenAPI.
-* **Bases de Datos:** PostgreSQL, Sequelize ORM, DynamoDB, **Redis**, Query Optimization.
-* **Cloud & Serverless:** AWS Lambda, API Gateway, S3, Docker, Serverless Architecture.
+A lo largo de mi carrera he participado en proyectos relacionados con:
 
-### 🎓 Certificaciones Destacadas
-
-* **IA Generativa:** Introducción a la IA Generativa (*MIT Professional Education*), Prompt Engineering.
-* **Arquitectura:** Arquitectura de software: Patrones esencial (*LinkedIn*).
-* **Cloud:** Introducción a AWS: Conceptos de la nube (*LinkedIn*).
-* **Liderazgo:** Lidera a Toda Velocidad: Lecciones de la Fórmula 1 (*Santander*).
+- Plataformas de e-commerce de alto volumen
+- Integraciones con ERPs y Marketplaces
+- APIs REST para aplicaciones productivas
+- Arquitecturas Serverless en AWS
+- Optimización de consultas PostgreSQL
+- Sistemas distribuidos
+- Automatización de procesos de negocio
+- Integraciones con Inteligencia Artificial
 
 ---
 
-## 📫 Contacto
+# 🤖 AI First
 
-* **Email:** gustavogarozzo@gmail.com
-* **LinkedIn:** [linkedin.com/in/gustavogarozzo]
-* **Portfolio:** [https://gustavo-garozzo.vercel.app/]
+Durante el último año adopté una metodología de desarrollo **AI First**, utilizando Inteligencia Artificial como acelerador del proceso de ingeniería, sin perder el foco en la calidad del software.
+
+Utilizo diariamente herramientas como:
+
+- ChatGPT
+- Claude
+- Gemini
+- GitHub Copilot
+
+Las aplico para:
+
+- Generación de código
+- Refactorización
+- Diseño de arquitectura
+- Documentación
+- Debugging
+- Testing
+- Investigación técnica
+- Prototipado rápido
+
+Creo que la IA no reemplaza al desarrollador; potencia su capacidad para construir mejores productos.
+
+---
+
+# 🛠 Stack Tecnológico
+
+## Backend
+
+- Node.js
+- NestJS
+- TypeScript
+- Express
+- REST APIs
+- Swagger / OpenAPI
+
+## Frontend
+
+- React
+- Next.js
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+
+## Bases de Datos
+
+- PostgreSQL
+- MongoDB
+- Redis
+- DynamoDB
+- Sequelize ORM
+- Prisma ORM
+
+## Cloud & DevOps
+
+- AWS
+- Lambda
+- API Gateway
+- S3
+- Docker
+- GitHub Actions
+- CI/CD
+
+## Arquitectura
+
+- Clean Architecture
+- SOLID
+- Microservicios
+- Arquitectura Serverless
+- Event-Driven Architecture
+
+---
+
+# 🌟 Proyectos Destacados
+
+### 🌐 ClickCore
+Sitio corporativo desarrollado bajo una metodología AI First con foco en rendimiento, SEO y experiencia de usuario.
+
+### 🌦️ Weather API AI
+API desarrollada con NestJS que integra Gemini Flash 2.5 para interpretar información meteorológica mediante Inteligencia Artificial.
+
+### 🛒 Monitor de Productos
+Extensión publicada en Chrome Web Store para monitorear disponibilidad y cambios de precio de productos.
+
+### 🐶 Barking Dogs
+Software House cofundada con el objetivo de desarrollar productos modernos utilizando tecnologías web e Inteligencia Artificial.
+
+---
+
+# 🎓 Formación y Certificaciones
+
+- IA Generativa — MIT Professional Education
+- Prompt Engineering
+- Arquitectura de Software
+- Domain-Driven Design (DDD)
+- AWS Cloud Fundamentals
+- Pair Programming con IA
+- Google Gemini para Desarrolladores
+
+---
+
+# 📫 Contacto
+
+📧 **Email:** gustavogarozzo@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/gustavogarozzo
+
+🌐 **Portfolio:** https://gustavo-garozzo.vercel.app
+
+---
+
+> *"Me apasiona construir software escalable, aprender constantemente y utilizar la Inteligencia Artificial para potenciar el desarrollo sin perder de vista la calidad del código y la experiencia del usuario."*
